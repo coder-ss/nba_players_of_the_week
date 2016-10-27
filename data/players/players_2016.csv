@@ -1,0 +1,529 @@
+name,team,short_team,number,pos,height,weight,birth_date,birth_country,years_experience,college_name,uri
+Kent Bazemore,Atlanta Hawks,ATL,24,SF,6-5,201,"July 1, 1989",us,3,Old Dominion University,/players/b/bazemke01.html
+Tim Hardaway,Atlanta Hawks,ATL,10,SG,6-6,205,"March 16, 1992",us,2,University of Michigan,/players/h/hardati02.html
+Kirk Hinrich,Atlanta Hawks,ATL,12,PG,6-4,190,"January 2, 1981",us,12,University of Kansas,/players/h/hinriki01.html
+Justin Holiday,Atlanta Hawks,ATL,7,SG,6-6,185,"April 5, 1989",us,2,University of Washington,/players/h/holidju01.html
+Al Horford,Atlanta Hawks,ATL,15,C,6-10,245,"June 3, 1986",do,8,University of Florida,/players/h/horfoal01.html
+Kris Humphries,Atlanta Hawks,ATL,43,PF,6-9,235,"February 6, 1985",us,11,University of Minnesota,/players/h/humphkr01.html
+Kyle Korver,Atlanta Hawks,ATL,26,SG,6-7,212,"March 17, 1981",us,12,Creighton University,/players/k/korveky01.html
+Shelvin Mack,Atlanta Hawks,ATL,8,PG,6-3,203,"April 22, 1990",us,4,Butler University,/players/m/macksh01.html
+Paul Millsap,Atlanta Hawks,ATL,4,PF,6-8,246,"February 10, 1985",us,9,Louisiana Tech University,/players/m/millspa01.html
+Mike Muscala,Atlanta Hawks,ATL,31,C,6-11,240,"July 1, 1991",us,2,Bucknell University,/players/m/muscami01.html
+Lamar Patterson,Atlanta Hawks,ATL,13,SG,6-5,225,"August 12, 1991",us,R,University of Pittsburgh,/players/p/pattela01.html
+Dennis Schroder,Atlanta Hawks,ATL,17,PG,6-1,172,"September 15, 1993",de,2,,/players/s/schrode01.html
+Mike Scott,Atlanta Hawks,ATL,32,PF,6-8,237,"July 16, 1988",us,3,University of Virginia,/players/s/scottmi01.html
+Thabo Sefolosha,Atlanta Hawks,ATL,25,SF,6-7,220,"May 2, 1984",ch,9,,/players/s/sefolth01.html
+Tiago Splitter,Atlanta Hawks,ATL,11,C,6-11,245,"January 1, 1985",br,5,,/players/s/splitti01.html
+Walter Tavares,Atlanta Hawks,ATL,22,C,7-3,260,"March 22, 1992",cv,R,,/players/t/tavarwa01.html
+Jeff Teague,Atlanta Hawks,ATL,0,PG,6-2,186,"June 10, 1988",us,6,Wake Forest University,/players/t/teaguje01.html
+Avery Bradley,Boston Celtics,BOS,0,SG,6-2,180,"November 26, 1990",us,5,University of Texas at Austin,/players/b/bradlav01.html
+Coty Clarke,Boston Celtics,BOS,63,SF,6-7,232,"July 4, 1992",us,R,University of Arkansas,/players/c/clarkco01.html
+Jae Crowder,Boston Celtics,BOS,99,SF,6-6,235,"July 6, 1990",us,3,Marquette University,/players/c/crowdja01.html
+R.J. Hunter,Boston Celtics,BOS,28,SG,6-5,185,"October 24, 1993",us,R,Georgia State University,/players/h/hunterj01.html
+Jonas Jerebko,Boston Celtics,BOS,8,PF,6-10,231,"March 2, 1987",se,5,,/players/j/jerebjo01.html
+Amir Johnson,Boston Celtics,BOS,90,PF,6-9,240,"May 1, 1987",us,10,,/players/j/johnsam01.html
+David Lee,Boston Celtics,BOS,42,PF,6-9,245,"April 29, 1983",us,10,University of Florida,/players/l/leeda02.html
+Jordan Mickey,Boston Celtics,BOS,55,PF,6-8,235,"July 9, 1994",us,R,Louisiana State University,/players/m/mickejo01.html
+Kelly Olynyk,Boston Celtics,BOS,41,C,7-0,238,"April 19, 1991",ca,2,Gonzaga University,/players/o/olynyke01.html
+Terry Rozier,Boston Celtics,BOS,12,PG,6-2,190,"March 17, 1994",us,R,University of Louisville,/players/r/roziete01.html
+Marcus Smart,Boston Celtics,BOS,36,PG,6-4,220,"March 6, 1994",us,1,Oklahoma State University,/players/s/smartma01.html
+Jared Sullinger,Boston Celtics,BOS,7,PF,6-9,260,"March 4, 1992",us,3,Ohio State University,/players/s/sullija01.html
+Isaiah Thomas,Boston Celtics,BOS,4,PG,5-9,185,"February 7, 1989",us,4,University of Washington,/players/t/thomais02.html
+Evan Turner,Boston Celtics,BOS,11,SG,6-7,220,"October 27, 1988",us,5,Ohio State University,/players/t/turneev01.html
+James Young,Boston Celtics,BOS,13,SG,6-6,215,"August 16, 1995",us,1,University of Kentucky,/players/y/youngja01.html
+Tyler Zeller,Boston Celtics,BOS,44,C,7-0,253,"January 17, 1990",us,3,University of North Carolina,/players/z/zellety01.html
+Andrea Bargnani,Brooklyn Nets,BRK,9,C,7-0,245,"October 26, 1985",it,9,,/players/b/bargnan01.html
+Bojan Bogdanovic,Brooklyn Nets,BRK,44,SF,6-8,216,"April 18, 1989",ba,1,,/players/b/bogdabo02.html
+Markel Brown,Brooklyn Nets,BRK,22,SG,6-3,190,"January 29, 1992",us,1,Oklahoma State University,/players/b/brownma02.html
+Wayne Ellington,Brooklyn Nets,BRK,21,SG,6-4,200,"October 29, 1987",us,6,University of North Carolina,/players/e/ellinwa01.html
+Rondae Hollis-Jefferson,Brooklyn Nets,BRK,24,SF,6-7,220,"January 3, 1995",us,R,University of Arizona,/players/h/holliro01.html
+Jarrett Jack,Brooklyn Nets,BRK,2,PG,6-3,200,"October 28, 1983",us,10,Georgia Institute of Technology,/players/j/jackja01.html
+Joe Johnson,Brooklyn Nets,BRK,7,SF,6-7,240,"June 29, 1981",us,14,University of Arkansas,/players/j/johnsjo02.html
+Sergey Karasev,Brooklyn Nets,BRK,10,SF,6-7,208,"October 26, 1993",ru,2,,/players/k/karasse01.html
+Sean Kilpatrick,Brooklyn Nets,BRK,6,SG,6-4,210,"January 6, 1990",us,1,University of Cincinnati,/players/k/kilpase01.html
+Shane Larkin,Brooklyn Nets,BRK,0,PG,5-11,175,"October 2, 1992",us,2,University of Miami,/players/l/larkish01.html
+Brook Lopez,Brooklyn Nets,BRK,11,C,7-0,275,"April 1, 1988",us,7,Stanford University,/players/l/lopezbr01.html
+Chris McCullough,Brooklyn Nets,BRK,1,PF,6-11,200,"February 5, 1995",us,R,Syracuse University,/players/m/mcculch01.html
+Willie Reed,Brooklyn Nets,BRK,33,PF,6-10,220,"May 16, 1990",us,R,Saint Louis University,/players/r/reedwi02.html
+Thomas Robinson,Brooklyn Nets,BRK,41,PF,6-10,237,"March 17, 1991",us,3,University of Kansas,/players/r/robinth01.html
+Henry Sims,Brooklyn Nets,BRK,14,C,6-10,248,"March 27, 1990",us,3,Georgetown University,/players/s/simshe01.html
+Donald Sloan,Brooklyn Nets,BRK,15,PG,6-3,205,"January 15, 1988",us,4,Texas A&M University,/players/s/sloando01.html
+Thaddeus Young,Brooklyn Nets,BRK,30,PF,6-8,221,"June 21, 1988",us,8,Georgia Institute of Technology,/players/y/youngth01.html
+Nicolas Batum,Charlotte Hornets,CHO,5,SF,6-8,200,"December 14, 1988",fr,7,,/players/b/batumni01.html
+Troy Daniels,Charlotte Hornets,CHO,30,SG,6-4,205,"July 15, 1991",us,2,Virginia Commonwealth University,/players/d/danietr01.html
+Jorge Gutierrez,Charlotte Hornets,CHO,12,PG,6-3,191,"December 27, 1988",mx,2,University of California,/players/g/gutiejo01.html
+P.J. Hairston,Charlotte Hornets,CHO,19,SF,6-6,230,"December 24, 1992",us,1,University of North Carolina,/players/h/hairspj02.html
+Tyler Hansbrough,Charlotte Hornets,CHO,50,PF,6-9,250,"November 3, 1985",us,6,University of North Carolina,/players/h/hansbty01.html
+Aaron Harrison,Charlotte Hornets,CHO,9,SG,6-6,210,"October 28, 1994",us,R,University of Kentucky,/players/h/harriaa01.html
+Spencer Hawes,Charlotte Hornets,CHO,00,PF,7-1,245,"April 28, 1988",us,8,University of Washington,/players/h/hawessp01.html
+Al Jefferson,Charlotte Hornets,CHO,25,C,6-10,289,"January 4, 1985",us,11,,/players/j/jeffeal01.html
+Frank Kaminsky,Charlotte Hornets,CHO,44,C,7-0,242,"April 4, 1993",us,R,University of Wisconsin,/players/k/kaminfr01.html
+Michael Kidd-Gilchrist,Charlotte Hornets,CHO,14,SF,6-7,232,"September 26, 1993",us,3,University of Kentucky,/players/k/kiddgmi01.html
+Jeremy Lamb,Charlotte Hornets,CHO,3,SG,6-5,185,"May 30, 1992",us,3,University of Connecticut,/players/l/lambje01.html
+Courtney Lee,Charlotte Hornets,CHO,1,SG,6-5,200,"October 3, 1985",us,7,Western Kentucky University,/players/l/leeco01.html
+Jeremy Lin,Charlotte Hornets,CHO,7,SG,6-3,200,"August 23, 1988",us,5,Harvard University,/players/l/linje01.html
+Brian Roberts,Charlotte Hornets,CHO,22,PG,6-1,173,"December 3, 1985",us,3,University of Dayton,/players/r/roberbr01.html
+Kemba Walker,Charlotte Hornets,CHO,15,PG,6-1,172,"May 8, 1990",us,4,University of Connecticut,/players/w/walkeke02.html
+Marvin Williams,Charlotte Hornets,CHO,2,PF,6-9,237,"June 19, 1986",us,10,University of North Carolina,/players/w/willima02.html
+Cody Zeller,Charlotte Hornets,CHO,40,C,7-0,240,"October 5, 1992",us,2,Indiana University,/players/z/zelleco01.html
+Cameron Bairstow,Chicago Bulls,CHI,41,C,6-9,250,"December 7, 1990",au,1,University of New Mexico,/players/b/bairsca01.html
+Aaron Brooks,Chicago Bulls,CHI,0,PG,6-0,161,"January 14, 1985",us,7,University of Oregon,/players/b/brookaa01.html
+Jimmy Butler,Chicago Bulls,CHI,21,SG,6-7,220,"September 14, 1989",us,4,Marquette University,/players/b/butleji01.html
+Mike Dunleavy,Chicago Bulls,CHI,34,SF,6-9,230,"September 15, 1980",us,13,Duke University,/players/d/dunlemi02.html
+Cristiano Felicio,Chicago Bulls,CHI,6,C,6-10,275,"July 7, 1992",br,R,,/players/f/feliccr01.html
+Pau Gasol,Chicago Bulls,CHI,16,C,7-0,250,"July 6, 1980",es,14,,/players/g/gasolpa01.html
+Taj Gibson,Chicago Bulls,CHI,22,PF,6-9,225,"June 24, 1985",us,6,University of Southern California,/players/g/gibsota01.html
+Kirk Hinrich,Chicago Bulls,CHI,12,PG,6-4,190,"January 2, 1981",us,12,University of Kansas,/players/h/hinriki01.html
+Justin Holiday,Chicago Bulls,CHI,7,SG,6-6,185,"April 5, 1989",us,2,University of Washington,/players/h/holidju01.html
+Doug McDermott,Chicago Bulls,CHI,3,SF,6-8,225,"January 3, 1992",us,1,Creighton University,/players/m/mcderdo01.html
+Nikola Mirotic,Chicago Bulls,CHI,44,PF,6-10,220,"February 11, 1991",me,1,,/players/m/mirotni01.html
+E'Twaun Moore,Chicago Bulls,CHI,55,SG,6-4,191,"February 28, 1989",us,4,Purdue University,/players/m/mooreet01.html
+Joakim Noah,Chicago Bulls,CHI,13,C,6-11,232,"February 25, 1985",us,8,University of Florida,/players/n/noahjo01.html
+Bobby Portis,Chicago Bulls,CHI,5,PF,6-11,230,"February 10, 1995",us,R,University of Arkansas,/players/p/portibo01.html
+Derrick Rose,Chicago Bulls,CHI,1,PG,6-3,190,"October 4, 1988",us,6,University of Memphis,/players/r/rosede01.html
+Tony Snell,Chicago Bulls,CHI,20,SF,6-7,200,"November 10, 1991",us,2,University of New Mexico,/players/s/snellto01.html
+Jared Cunningham,Cleveland Cavaliers,CLE,9,SG,6-4,195,"May 22, 1991",us,3,Oregon State University,/players/c/cunnija01.html
+Matthew Dellavedova,Cleveland Cavaliers,CLE,8,PG,6-4,198,"September 8, 1990",au,2,Saint Mary's College of California,/players/d/dellama01.html
+Channing Frye,Cleveland Cavaliers,CLE,9,C,6-11,255,"May 17, 1983",us,9,University of Arizona,/players/f/fryech01.html
+Joe Harris,Cleveland Cavaliers,CLE,12,SG,6-6,219,"September 7, 1991",us,1,University of Virginia,/players/h/harrijo01.html
+Kyrie Irving,Cleveland Cavaliers,CLE,2,PG,6-3,193,"March 23, 1992",au,4,Duke University,/players/i/irvinky01.html
+LeBron James,Cleveland Cavaliers,CLE,23,SF,6-8,250,"December 30, 1984",us,12,,/players/j/jamesle01.html
+Richard Jefferson,Cleveland Cavaliers,CLE,24,SF,6-7,233,"June 21, 1980",us,14,University of Arizona,/players/j/jefferi01.html
+Dahntay Jones,Cleveland Cavaliers,CLE,30,SF,6-6,225,"December 27, 1980",us,11,Duke University,/players/j/jonesda02.html
+James Jones,Cleveland Cavaliers,CLE,1,SF,6-8,218,"October 4, 1980",us,12,University of Miami,/players/j/jonesja02.html
+Sasha Kaun,Cleveland Cavaliers,CLE,14,C,6-11,260,"May 8, 1985",ru,R,University of Kansas,/players/k/kaunsa01.html
+Kevin Love,Cleveland Cavaliers,CLE,0,PF,6-10,251,"September 7, 1988",us,7,"University of California, Los Angeles",/players/l/loveke01.html
+Jordan McRae,Cleveland Cavaliers,CLE,12,PG,6-6,185,"March 28, 1991",us,R,University of Tennessee,/players/m/mcraejo01.html
+Timofey Mozgov,Cleveland Cavaliers,CLE,20,C,7-1,275,"July 16, 1986",ru,5,,/players/m/mozgoti01.html
+Iman Shumpert,Cleveland Cavaliers,CLE,4,SG,6-5,220,"June 26, 1990",us,4,Georgia Institute of Technology,/players/s/shumpim01.html
+J.R. Smith,Cleveland Cavaliers,CLE,5,SG,6-6,225,"September 9, 1985",us,11,,/players/s/smithjr01.html
+Tristan Thompson,Cleveland Cavaliers,CLE,13,PF,6-9,238,"March 13, 1991",ca,4,University of Texas at Austin,/players/t/thomptr01.html
+Anderson Varejao,Cleveland Cavaliers,CLE,17,C,6-10,273,"September 28, 1982",br,11,,/players/v/varejan01.html
+Mo Williams,Cleveland Cavaliers,CLE,52,PG,6-1,198,"December 19, 1982",us,12,University of Alabama,/players/w/willima01.html
+Justin Anderson,Dallas Mavericks,DAL,1,SF,6-6,228,"November 19, 1993",us,R,University of Virginia,/players/a/anderju01.html
+J.J. Barea,Dallas Mavericks,DAL,5,PG,6-0,185,"June 26, 1984",pr,9,Northeastern University,/players/b/bareajo01.html
+Jeremy Evans,Dallas Mavericks,DAL,21,SF,6-9,196,"October 24, 1987",us,5,Western Kentucky University,/players/e/evansje01.html
+Raymond Felton,Dallas Mavericks,DAL,2,PG,6-1,205,"June 26, 1984",us,10,University of North Carolina,/players/f/feltora01.html
+Devin Harris,Dallas Mavericks,DAL,34,PG,6-3,192,"February 27, 1983",us,11,University of Wisconsin,/players/h/harride01.html
+John Jenkins,Dallas Mavericks,DAL,12,SG,6-4,215,"March 6, 1991",us,3,Vanderbilt University,/players/j/jenkijo01.html
+David Lee,Dallas Mavericks,DAL,42,PF,6-9,245,"April 29, 1983",us,10,University of Florida,/players/l/leeda02.html
+Wesley Matthews,Dallas Mavericks,DAL,23,SG,6-5,220,"October 14, 1986",us,6,Marquette University,/players/m/matthwe02.html
+JaVale McGee,Dallas Mavericks,DAL,11,C,7-0,270,"January 19, 1988",us,7,"University of Nevada, Reno",/players/m/mcgeeja01.html
+Salah Mejri,Dallas Mavericks,DAL,50,C,7-1,245,"June 15, 1986",tn,R,,/players/m/mejrisa01.html
+Dirk Nowitzki,Dallas Mavericks,DAL,41,PF,7-0,245,"June 19, 1978",de,17,,/players/n/nowitdi01.html
+Zaza Pachulia,Dallas Mavericks,DAL,27,C,6-11,270,"February 10, 1984",ge,12,,/players/p/pachuza01.html
+Chandler Parsons,Dallas Mavericks,DAL,25,SF,6-9,227,"October 25, 1988",us,4,University of Florida,/players/p/parsoch01.html
+Dwight Powell,Dallas Mavericks,DAL,7,PF,6-11,240,"July 20, 1991",ca,1,Stanford University,/players/p/poweldw01.html
+Charlie Villanueva,Dallas Mavericks,DAL,3,PF,6-11,232,"August 24, 1984",us,10,University of Connecticut,/players/v/villach01.html
+Deron Williams,Dallas Mavericks,DAL,8,PG,6-3,200,"June 26, 1984",us,10,University of Illinois at Urbana-Champaign,/players/w/willide01.html
+Darrell Arthur,Denver Nuggets,DEN,00,PF,6-9,235,"March 25, 1988",us,6,University of Kansas,/players/a/arthuda01.html
+D.J. Augustin,Denver Nuggets,DEN,12,PG,6-0,183,"November 10, 1987",us,7,University of Texas at Austin,/players/a/augusdj01.html
+Will Barton,Denver Nuggets,DEN,5,SG,6-6,175,"January 6, 1991",us,3,University of Memphis,/players/b/bartowi01.html
+Kenneth Faried,Denver Nuggets,DEN,35,PF,6-8,228,"November 19, 1989",us,4,Morehead State University,/players/f/farieke01.html
+Randy Foye,Denver Nuggets,DEN,4,SG,6-4,213,"September 24, 1983",us,9,Villanova University,/players/f/foyera01.html
+Danilo Gallinari,Denver Nuggets,DEN,8,SF,6-10,225,"August 8, 1988",it,6,,/players/g/gallida01.html
+Erick Green,Denver Nuggets,DEN,11,PG,6-4,185,"May 9, 1991",us,1,Virginia Polytechnic Institute and State University,/players/g/greener01.html
+Gary Harris,Denver Nuggets,DEN,14,SG,6-4,210,"September 14, 1994",us,1,Michigan State University,/players/h/harriga01.html
+J.J. Hickson,Denver Nuggets,DEN,7,C,6-9,242,"September 4, 1988",us,7,North Carolina State University,/players/h/hicksjj01.html
+Nikola Jokic,Denver Nuggets,DEN,15,C,6-10,250,"February 19, 1995",rs,R,,/players/j/jokicni01.html
+Sean Kilpatrick,Denver Nuggets,DEN,6,SG,6-4,210,"January 6, 1990",us,1,University of Cincinnati,/players/k/kilpase01.html
+Joffrey Lauvergne,Denver Nuggets,DEN,77,C,6-11,220,"September 30, 1991",fr,1,,/players/l/lauvejo01.html
+Mike Miller,Denver Nuggets,DEN,3,SF,6-8,218,"February 19, 1980",us,15,University of Florida,/players/m/millemi01.html
+Emmanuel Mudiay,Denver Nuggets,DEN,0,PG,6-5,200,"March 5, 1996",cd,R,,/players/m/mudiaem01.html
+Jameer Nelson,Denver Nuggets,DEN,1,PG,6-0,190,"February 9, 1982",us,11,Saint Joseph's University,/players/n/nelsoja01.html
+Jusuf Nurkic,Denver Nuggets,DEN,23,C,7-0,280,"August 23, 1994",ba,1,,/players/n/nurkiju01.html
+Kostas Papanikolaou,Denver Nuggets,DEN,16,SF,6-8,225,"July 31, 1990",gr,1,,/players/p/papanko01.html
+JaKarr Sampson,Denver Nuggets,DEN,9,SF,6-9,214,"March 20, 1993",us,1,St. John's University,/players/s/sampsja02.html
+Axel Toupane,Denver Nuggets,DEN,6,SF,6-7,197,"July 23, 1992",fr,R,,/players/t/toupaax01.html
+Joel Anthony,Detroit Pistons,DET,50,C,6-9,245,"August 9, 1982",ca,8,"University of Nevada, Las Vegas",/players/a/anthojo01.html
+Aron Baynes,Detroit Pistons,DET,12,C,6-10,260,"December 9, 1986",nz,3,Washington State University,/players/b/baynear01.html
+Steve Blake,Detroit Pistons,DET,22,PG,6-3,172,"February 26, 1980",us,12,University of Maryland,/players/b/blakest01.html
+Reggie Bullock,Detroit Pistons,DET,25,SF,6-7,205,"March 16, 1991",us,2,University of North Carolina,/players/b/bullore01.html
+Kentavious Caldwell-Pope,Detroit Pistons,DET,5,SG,6-5,205,"February 18, 1993",us,2,University of Georgia,/players/c/caldwke01.html
+Spencer Dinwiddie,Detroit Pistons,DET,8,PG,6-6,200,"April 6, 1993",us,1,University of Colorado,/players/d/dinwisp01.html
+Andre Drummond,Detroit Pistons,DET,0,C,6-11,279,"August 10, 1993",us,3,University of Connecticut,/players/d/drumman01.html
+Justin Harper,Detroit Pistons,DET,32,PF,6-10,225,"August 30, 1989",us,1,University of Richmond,/players/h/harpeju01.html
+Tobias Harris,Detroit Pistons,DET,34,PF,6-9,235,"July 15, 1992",us,4,University of Tennessee,/players/h/harrito02.html
+Darrun Hilliard,Detroit Pistons,DET,6,SG,6-6,205,"April 13, 1993",us,R,Villanova University,/players/h/hillida01.html
+Ersan Ilyasova,Detroit Pistons,DET,23,PF,6-10,235,"May 15, 1987",tr,7,,/players/i/ilyaser01.html
+Reggie Jackson,Detroit Pistons,DET,1,PG,6-3,208,"April 16, 1990",it,4,Boston College,/players/j/jacksre01.html
+Brandon Jennings,Detroit Pistons,DET,7,PG,6-1,169,"September 23, 1989",us,6,,/players/j/jennibr01.html
+Stanley Johnson,Detroit Pistons,DET,3,SF,6-7,245,"May 29, 1996",us,R,University of Arizona,/players/j/johnsst04.html
+Jodie Meeks,Detroit Pistons,DET,20,SG,6-4,208,"August 21, 1987",us,6,University of Kentucky,/players/m/meeksjo01.html
+Marcus Morris,Detroit Pistons,DET,13,SF,6-9,235,"September 2, 1989",us,4,University of Kansas,/players/m/morrima03.html
+Anthony Tolliver,Detroit Pistons,DET,43,PF,6-8,240,"June 1, 1985",us,7,Creighton University,/players/t/tollian01.html
+Leandro Barbosa,Golden State Warriors,GSW,19,SG,6-3,194,"November 28, 1982",br,12,,/players/b/barbole01.html
+Harrison Barnes,Golden State Warriors,GSW,40,SF,6-8,210,"May 30, 1992",us,3,University of North Carolina,/players/b/barneha02.html
+Andrew Bogut,Golden State Warriors,GSW,12,C,7-0,260,"November 28, 1984",au,10,University of Utah,/players/b/bogutan01.html
+Ian Clark,Golden State Warriors,GSW,21,SG,6-3,175,"March 7, 1991",us,2,Belmont University,/players/c/clarkia01.html
+Stephen Curry,Golden State Warriors,GSW,30,PG,6-3,185,"March 14, 1988",us,6,Davidson College,/players/c/curryst01.html
+Festus Ezeli,Golden State Warriors,GSW,31,C,6-11,255,"October 21, 1989",ng,2,Vanderbilt University,/players/e/ezelife01.html
+Draymond Green,Golden State Warriors,GSW,23,PF,6-7,230,"March 4, 1990",us,3,Michigan State University,/players/g/greendr01.html
+Andre Iguodala,Golden State Warriors,GSW,9,SF,6-6,207,"January 28, 1984",us,11,University of Arizona,/players/i/iguodan01.html
+Shaun Livingston,Golden State Warriors,GSW,34,PG,6-7,182,"September 11, 1985",us,10,,/players/l/livinsh01.html
+Kevon Looney,Golden State Warriors,GSW,36,PF,6-9,220,"February 6, 1996",us,R,"University of California, Los Angeles",/players/l/looneke01.html
+James Michael McAdoo,Golden State Warriors,GSW,20,PF,6-9,230,"January 4, 1993",us,1,University of North Carolina,/players/m/mcadoja01.html
+Brandon Rush,Golden State Warriors,GSW,4,SG,6-6,210,"July 7, 1985",us,7,University of Kansas,/players/r/rushbr01.html
+Marreese Speights,Golden State Warriors,GSW,5,C,6-10,255,"August 4, 1987",us,7,University of Florida,/players/s/speigma01.html
+Jason Thompson,Golden State Warriors,GSW,1,C,6-11,250,"July 21, 1986",us,7,Rider University,/players/t/thompja02.html
+Klay Thompson,Golden State Warriors,GSW,11,SG,6-7,205,"February 8, 1990",us,4,Washington State University,/players/t/thompkl01.html
+Anderson Varejao,Golden State Warriors,GSW,18,C,6-10,273,"September 28, 1982",br,11,,/players/v/varejan01.html
+Trevor Ariza,Houston Rockets,HOU,1,SF,6-8,215,"June 30, 1985",us,11,"University of California, Los Angeles",/players/a/arizatr01.html
+Michael Beasley,Houston Rockets,HOU,8,SF,6-9,235,"January 9, 1989",us,7,Kansas State University,/players/b/beaslmi01.html
+Patrick Beverley,Houston Rockets,HOU,2,PG,6-1,185,"July 12, 1988",us,3,University of Arkansas,/players/b/beverpa01.html
+Corey Brewer,Houston Rockets,HOU,33,SF,6-9,186,"March 5, 1986",us,8,University of Florida,/players/b/breweco01.html
+Clint Capela,Houston Rockets,HOU,15,C,6-10,240,"May 18, 1994",ch,1,,/players/c/capelca01.html
+Sam Dekker,Houston Rockets,HOU,7,SF,6-9,230,"May 6, 1994",us,R,University of Wisconsin,/players/d/dekkesa01.html
+Andrew Goudelock,Houston Rockets,HOU,0,PG,6-3,200,"December 7, 1988",us,2,College of Charleston,/players/g/goudean01.html
+James Harden,Houston Rockets,HOU,13,SG,6-5,220,"August 26, 1989",us,6,Arizona State University,/players/h/hardeja01.html
+Montrezl Harrell,Houston Rockets,HOU,35,PF,6-8,240,"January 26, 1994",us,R,University of Louisville,/players/h/harremo01.html
+Chuck Hayes,Houston Rockets,HOU,44,C,6-6,240,"June 11, 1983",us,10,University of Kentucky,/players/h/hayesch01.html
+Dwight Howard,Houston Rockets,HOU,12,C,6-11,265,"December 8, 1985",us,11,,/players/h/howardw01.html
+Terrence Jones,Houston Rockets,HOU,6,PF,6-9,252,"January 9, 1992",us,3,University of Kentucky,/players/j/joneste01.html
+Ty Lawson,Houston Rockets,HOU,3,PG,5-11,195,"November 3, 1987",us,6,University of North Carolina,/players/l/lawsoty01.html
+K.J. McDaniels,Houston Rockets,HOU,32,SF,6-6,205,"February 9, 1993",us,1,Clemson University,/players/m/mcdankj01.html
+Donatas Motiejunas,Houston Rockets,HOU,20,PF,7-0,222,"September 20, 1990",lt,3,,/players/m/motiedo01.html
+Josh Smith,Houston Rockets,HOU,5,PF,6-9,225,"December 5, 1985",us,11,,/players/s/smithjo03.html
+Jason Terry,Houston Rockets,HOU,31,SG,6-2,185,"September 15, 1977",us,16,University of Arizona,/players/t/terryja01.html
+Marcus Thornton,Houston Rockets,HOU,10,SG,6-4,205,"June 5, 1987",us,6,Louisiana State University,/players/t/thornma01.html
+Lavoy Allen,Indiana Pacers,IND,5,PF,6-9,255,"February 4, 1989",us,4,Temple University,/players/a/allenla01.html
+Chase Budinger,Indiana Pacers,IND,10,SF,6-7,209,"May 22, 1988",us,6,University of Arizona,/players/b/budinch01.html
+Rakeem Christmas,Indiana Pacers,IND,25,PF,6-9,250,"December 1, 1991",us,R,Syracuse University,/players/c/chrisra01.html
+Monta Ellis,Indiana Pacers,IND,11,SG,6-3,185,"October 26, 1985",us,10,,/players/e/ellismo01.html
+Paul George,Indiana Pacers,IND,13,SF,6-9,220,"May 2, 1990",us,5,"California State University, Fresno",/players/g/georgpa01.html
+George Hill,Indiana Pacers,IND,3,PG,6-3,188,"May 4, 1986",us,7,Indiana University-Purdue University Indianapolis,/players/h/hillge01.html
+Jordan Hill,Indiana Pacers,IND,27,C,6-10,235,"July 27, 1987",us,6,University of Arizona,/players/h/hilljo01.html
+Solomon Hill,Indiana Pacers,IND,44,SF,6-7,225,"March 18, 1991",us,2,University of Arizona,/players/h/hillso01.html
+Ty Lawson,Indiana Pacers,IND,10,PG,5-11,195,"November 3, 1987",us,6,University of North Carolina,/players/l/lawsoty01.html
+Ian Mahinmi,Indiana Pacers,IND,28,C,6-11,250,"November 5, 1986",fr,7,,/players/m/mahinia01.html
+C.J. Miles,Indiana Pacers,IND,0,SF,6-6,231,"April 18, 1987",us,10,,/players/m/milescj01.html
+Glenn Robinson,Indiana Pacers,IND,40,SF,6-7,222,"January 8, 1994",us,1,University of Michigan,/players/r/robingl02.html
+Rodney Stuckey,Indiana Pacers,IND,2,PG,6-5,205,"April 21, 1986",us,8,Eastern Washington University,/players/s/stuckro01.html
+Myles Turner,Indiana Pacers,IND,33,C,6-11,243,"March 24, 1996",us,R,University of Texas at Austin,/players/t/turnemy01.html
+Shayne Whittington,Indiana Pacers,IND,42,PF,6-11,250,"March 27, 1991",us,1,Western Michigan University,/players/w/whittsh01.html
+Joseph Young,Indiana Pacers,IND,1,PG,6-2,180,"June 27, 1992",us,R,University of Oregon,/players/y/youngjo01.html
+Cole Aldrich,Los Angeles Clippers,LAC,45,C,6-11,250,"October 31, 1988",us,5,University of Kansas,/players/a/aldrico01.html
+Jeff Ayres,Los Angeles Clippers,LAC,19,C,6-9,240,"April 29, 1987",us,5,Arizona State University,/players/p/pendeje02.html
+Jamal Crawford,Los Angeles Clippers,LAC,11,SG,6-5,195,"March 20, 1980",us,15,University of Michigan,/players/c/crawfja01.html
+Branden Dawson,Los Angeles Clippers,LAC,22,PF,6-6,225,"February 1, 1993",us,R,Michigan State University,/players/d/dawsobr01.html
+Jeff Green,Los Angeles Clippers,LAC,8,SF,6-9,235,"August 28, 1986",us,7,Georgetown University,/players/g/greenje02.html
+Blake Griffin,Los Angeles Clippers,LAC,32,PF,6-10,251,"March 16, 1989",us,5,University of Oklahoma,/players/g/griffbl01.html
+Wesley Johnson,Los Angeles Clippers,LAC,33,SF,6-7,215,"July 11, 1987",us,5,Syracuse University,/players/j/johnswe01.html
+DeAndre Jordan,Los Angeles Clippers,LAC,6,C,6-11,265,"July 21, 1988",us,7,Texas A&M University,/players/j/jordade01.html
+Luc Mbah a Moute,Los Angeles Clippers,LAC,12,PF,6-8,230,"September 9, 1986",cm,7,"University of California, Los Angeles",/players/m/mbahalu01.html
+Chris Paul,Los Angeles Clippers,LAC,3,PG,6-0,175,"May 6, 1985",us,10,Wake Forest University,/players/p/paulch01.html
+Paul Pierce,Los Angeles Clippers,LAC,34,SF,6-7,235,"October 13, 1977",us,17,University of Kansas,/players/p/piercpa01.html
+Pablo Prigioni,Los Angeles Clippers,LAC,9,PG,6-3,185,"May 17, 1977",ar,3,,/players/p/prigipa01.html
+J.J. Redick,Los Angeles Clippers,LAC,4,SG,6-4,190,"June 24, 1984",us,9,Duke University,/players/r/redicjj01.html
+Austin Rivers,Los Angeles Clippers,LAC,25,SG,6-4,200,"August 1, 1992",us,3,Duke University,/players/r/riverau01.html
+Josh Smith,Los Angeles Clippers,LAC,5,PF,6-9,225,"December 5, 1985",us,11,,/players/s/smithjo03.html
+Lance Stephenson,Los Angeles Clippers,LAC,1,SF,6-5,230,"September 5, 1990",us,5,University of Cincinnati,/players/s/stephla01.html
+Alex Stepheson,Los Angeles Clippers,LAC,35,PF,6-10,270,"August 7, 1987",us,R,University of Southern California,/players/s/stephal01.html
+C.J. Wilcox,Los Angeles Clippers,LAC,30,SG,6-5,195,"December 30, 1990",us,1,University of Washington,/players/w/wilcocj01.html
+Brandon Bass,Los Angeles Lakers,LAL,2,PF,6-8,250,"April 30, 1985",us,10,Louisiana State University,/players/b/bassbr01.html
+Tarik Black,Los Angeles Lakers,LAL,28,C,6-9,250,"November 22, 1991",us,1,University of Kansas,/players/b/blackta01.html
+Anthony Brown,Los Angeles Lakers,LAL,3,SF,6-7,210,"October 10, 1992",us,R,Stanford University,/players/b/brownan02.html
+Kobe Bryant,Los Angeles Lakers,LAL,24,SF,6-6,212,"August 23, 1978",us,19,,/players/b/bryanko01.html
+Jordan Clarkson,Los Angeles Lakers,LAL,6,SG,6-5,185,"June 7, 1992",us,1,University of Missouri,/players/c/clarkjo01.html
+Roy Hibbert,Los Angeles Lakers,LAL,17,C,7-2,270,"December 11, 1986",us,7,Georgetown University,/players/h/hibbero01.html
+Marcelo Huertas,Los Angeles Lakers,LAL,9,PG,6-3,185,"May 25, 1983",br,R,,/players/h/huertma01.html
+Ryan Kelly,Los Angeles Lakers,LAL,4,PF,6-11,230,"April 9, 1991",us,2,Duke University,/players/k/kellyry01.html
+Larry Nance Jr.,Los Angeles Lakers,LAL,7,PF,6-9,230,"January 1, 1993",us,R,University of Wyoming,/players/n/nancela02.html
+Julius Randle,Los Angeles Lakers,LAL,30,PF,6-9,250,"November 29, 1994",us,1,University of Kentucky,/players/r/randlju01.html
+D'Angelo Russell,Los Angeles Lakers,LAL,1,PG,6-5,195,"February 23, 1996",us,R,Ohio State University,/players/r/russeda01.html
+Robert Sacre,Los Angeles Lakers,LAL,50,C,7-0,270,"June 6, 1989",us,3,Gonzaga University,/players/s/sacrero01.html
+Lou Williams,Los Angeles Lakers,LAL,23,SG,6-1,175,"October 27, 1986",us,10,,/players/w/willilo02.html
+Metta World Peace,Los Angeles Lakers,LAL,37,SF,6-6,260,"November 13, 1979",us,15,St. John's University,/players/a/artesro01.html
+Nick Young,Los Angeles Lakers,LAL,0,SG,6-7,210,"June 1, 1985",us,8,University of Southern California,/players/y/youngni01.html
+Jordan Adams,Memphis Grizzlies,MEM,3,SG,6-5,209,"July 8, 1994",us,1,"University of California, Los Angeles",/players/a/adamsjo01.html
+Tony Allen,Memphis Grizzlies,MEM,9,SG,6-4,213,"January 11, 1982",us,11,Oklahoma State University,/players/a/allento01.html
+Chris Andersen,Memphis Grizzlies,MEM,7,C,6-10,245,"July 7, 1978",us,13,Blinn College,/players/a/anderch01.html
+Matt Barnes,Memphis Grizzlies,MEM,22,SF,6-7,226,"March 9, 1980",us,12,"University of California, Los Angeles",/players/b/barnema02.html
+Vince Carter,Memphis Grizzlies,MEM,15,SG,6-6,220,"January 26, 1977",us,17,University of North Carolina,/players/c/cartevi01.html
+Mario Chalmers,Memphis Grizzlies,MEM,6,PG,6-2,190,"May 19, 1986",us,7,University of Kansas,/players/c/chalmma01.html
+Mike Conley,Memphis Grizzlies,MEM,11,PG,6-1,175,"October 11, 1987",us,8,Ohio State University,/players/c/conlemi01.html
+Bryce Cotton,Memphis Grizzlies,MEM,8,PG,6-1,165,"August 11, 1992",us,1,Providence College,/players/c/cottobr01.html
+James Ennis,Memphis Grizzlies,MEM,8,SF,6-7,210,"July 1, 1990",us,1,"California State University, Long Beach",/players/e/ennisja01.html
+Jordan Farmar,Memphis Grizzlies,MEM,4,PG,6-2,180,"November 30, 1986",us,8,"University of California, Los Angeles",/players/f/farmajo01.html
+Marc Gasol,Memphis Grizzlies,MEM,33,C,7-1,255,"January 29, 1985",es,7,,/players/g/gasolma01.html
+JaMychal Green,Memphis Grizzlies,MEM,0,PF,6-9,227,"June 21, 1990",us,1,University of Alabama,/players/g/greenja01.html
+Jeff Green,Memphis Grizzlies,MEM,32,SF,6-9,235,"August 28, 1986",us,7,Georgetown University,/players/g/greenje02.html
+P.J. Hairston,Memphis Grizzlies,MEM,19,SF,6-6,230,"December 24, 1992",us,1,University of North Carolina,/players/h/hairspj02.html
+Ryan Hollins,Memphis Grizzlies,MEM,20,C,7-0,240,"October 10, 1984",us,9,"University of California, Los Angeles",/players/h/holliry01.html
+Courtney Lee,Memphis Grizzlies,MEM,5,SG,6-5,200,"October 3, 1985",us,7,Western Kentucky University,/players/l/leeco01.html
+Jarell Martin,Memphis Grizzlies,MEM,10,PF,6-10,239,"May 24, 1994",us,R,Louisiana State University,/players/m/martija01.html
+Ray McCallum,Memphis Grizzlies,MEM,5,PG,6-3,190,"June 12, 1991",us,2,University of Detroit Mercy,/players/m/mccalra01.html
+Xavier Munford,Memphis Grizzlies,MEM,14,SG,6-3,180,"June 1, 1992",us,R,University of Rhode Island,/players/m/munfoxa02.html
+Zach Randolph,Memphis Grizzlies,MEM,50,PF,6-9,260,"July 16, 1981",us,14,Michigan State University,/players/r/randoza01.html
+Russ Smith,Memphis Grizzlies,MEM,2,PG,6-0,165,"April 19, 1991",us,1,University of Louisville,/players/s/smithru01.html
+Lance Stephenson,Memphis Grizzlies,MEM,1,SF,6-5,230,"September 5, 1990",us,5,University of Cincinnati,/players/s/stephla01.html
+Alex Stepheson,Memphis Grizzlies,MEM,35,PF,6-10,270,"August 7, 1987",us,R,University of Southern California,/players/s/stephal01.html
+Jarnell Stokes,Memphis Grizzlies,MEM,1,C,6-9,263,"January 7, 1994",us,1,University of Tennessee,/players/s/stokeja01.html
+Beno Udrih,Memphis Grizzlies,MEM,19,PG,6-3,205,"July 5, 1982",si,11,,/players/u/udrihbe01.html
+Briante Weber,Memphis Grizzlies,MEM,2,PG,6-2,165,"December 29, 1992",us,R,Virginia Commonwealth University,/players/w/weberbr01.html
+Elliot Williams,Memphis Grizzlies,MEM,25,PG,6-5,190,"June 20, 1989",us,3,University of Memphis,/players/w/williel01.html
+Brandan Wright,Memphis Grizzlies,MEM,34,PF,6-10,210,"October 5, 1987",us,7,University of North Carolina,/players/w/wrighbr03.html
+Chris Andersen,Miami Heat,MIA,11,C,6-10,245,"July 7, 1978",us,13,Blinn College,/players/a/anderch01.html
+Chris Bosh,Miami Heat,MIA,1,PF,6-11,235,"March 24, 1984",us,12,Georgia Institute of Technology,/players/b/boshch01.html
+Mario Chalmers,Miami Heat,MIA,15,PG,6-2,190,"May 19, 1986",us,7,University of Kansas,/players/c/chalmma01.html
+Luol Deng,Miami Heat,MIA,9,PF,6-9,220,"April 16, 1985",ss,11,Duke University,/players/d/denglu01.html
+Goran Dragic,Miami Heat,MIA,7,PG,6-3,190,"May 6, 1986",si,7,,/players/d/dragigo01.html
+James Ennis,Miami Heat,MIA,32,SF,6-7,210,"July 1, 1990",us,1,"California State University, Long Beach",/players/e/ennisja01.html
+Gerald Green,Miami Heat,MIA,14,SG,6-7,205,"January 26, 1986",us,8,,/players/g/greenge01.html
+Udonis Haslem,Miami Heat,MIA,40,PF,6-8,235,"June 9, 1980",us,12,University of Florida,/players/h/hasleud01.html
+Joe Johnson,Miami Heat,MIA,2,SF,6-7,240,"June 29, 1981",us,14,University of Arkansas,/players/j/johnsjo02.html
+Tyler Johnson,Miami Heat,MIA,8,SG,6-4,186,"May 7, 1992",us,1,"California State University, Fresno",/players/j/johnsty01.html
+Josh McRoberts,Miami Heat,MIA,4,PF,6-10,240,"February 28, 1987",us,8,Duke University,/players/m/mcrobjo01.html
+Josh Richardson,Miami Heat,MIA,0,SG,6-6,200,"September 15, 1993",us,R,University of Tennessee,/players/r/richajo01.html
+Jarnell Stokes,Miami Heat,MIA,12,C,6-9,263,"January 7, 1994",us,1,University of Tennessee,/players/s/stokeja01.html
+Amar'e Stoudemire,Miami Heat,MIA,5,C,6-10,245,"November 16, 1982",us,13,,/players/s/stoudam01.html
+Beno Udrih,Miami Heat,MIA,19,PG,6-3,205,"July 5, 1982",si,11,,/players/u/udrihbe01.html
+Dwyane Wade,Miami Heat,MIA,3,SG,6-4,220,"January 17, 1982",us,12,Marquette University,/players/w/wadedw01.html
+Briante Weber,Miami Heat,MIA,12,PG,6-2,165,"December 29, 1992",us,R,Virginia Commonwealth University,/players/w/weberbr01.html
+Hassan Whiteside,Miami Heat,MIA,21,C,7-0,265,"June 13, 1989",us,3,Marshall University,/players/w/whiteha01.html
+Justise Winslow,Miami Heat,MIA,20,SF,6-7,225,"March 26, 1996",us,R,Duke University,/players/w/winslju01.html
+Giannis Antetokounmpo,Milwaukee Bucks,MIL,34,PG,6-11,222,"December 6, 1994",gr,2,,/players/a/antetgi01.html
+Jerryd Bayless,Milwaukee Bucks,MIL,19,SG,6-3,200,"August 20, 1988",us,7,University of Arizona,/players/b/bayleje01.html
+Michael Carter-Williams,Milwaukee Bucks,MIL,5,PG,6-6,190,"October 10, 1991",us,2,Syracuse University,/players/c/cartemi01.html
+Chris Copeland,Milwaukee Bucks,MIL,9,PF,6-9,239,"March 17, 1984",us,3,University of Colorado,/players/c/copelch01.html
+Jared Cunningham,Milwaukee Bucks,MIL,9,SG,6-4,195,"May 22, 1991",us,3,Oregon State University,/players/c/cunnija01.html
+Tyler Ennis,Milwaukee Bucks,MIL,11,PG,6-3,194,"August 24, 1994",ca,1,Syracuse University,/players/e/ennisty01.html
+John Henson,Milwaukee Bucks,MIL,31,C,6-11,229,"December 28, 1990",us,3,University of North Carolina,/players/h/hensojo01.html
+Damien Inglis,Milwaukee Bucks,MIL,17,SF,6-8,246,"May 20, 1995",gf,R,,/players/i/inglida01.html
+O.J. Mayo,Milwaukee Bucks,MIL,3,SG,6-5,210,"November 5, 1987",us,7,University of Southern California,/players/m/mayooj01.html
+Khris Middleton,Milwaukee Bucks,MIL,22,SG,6-8,234,"August 12, 1991",us,3,Texas A&M University,/players/m/middlkh01.html
+Greg Monroe,Milwaukee Bucks,MIL,15,C,6-11,265,"June 4, 1990",us,5,Georgetown University,/players/m/monrogr01.html
+Steve Novak,Milwaukee Bucks,MIL,6,PF,6-10,225,"June 13, 1983",us,9,Marquette University,/players/n/novakst01.html
+Johnny O'Bryant,Milwaukee Bucks,MIL,77,PF,6-9,257,"June 1, 1993",us,1,Louisiana State University,/players/o/obryajo01.html
+Jabari Parker,Milwaukee Bucks,MIL,12,PF,6-8,250,"March 15, 1995",us,1,Duke University,/players/p/parkeja01.html
+Miles Plumlee,Milwaukee Bucks,MIL,18,C,6-11,249,"September 1, 1988",us,3,Duke University,/players/p/plumlmi01.html
+Greivis Vasquez,Milwaukee Bucks,MIL,21,PG,6-6,217,"January 16, 1987",ve,5,University of Maryland,/players/v/vasqugr01.html
+Rashad Vaughn,Milwaukee Bucks,MIL,20,SG,6-6,202,"August 16, 1996",us,R,"University of Nevada, Las Vegas",/players/v/vaughra01.html
+Nemanja Bjelica,Minnesota Timberwolves,MIN,88,PF,6-10,240,"May 9, 1988",rs,R,,/players/b/bjeline01.html
+Gorgui Dieng,Minnesota Timberwolves,MIN,5,C,6-11,241,"January 18, 1990",sn,2,University of Louisville,/players/d/dienggo01.html
+Kevin Garnett,Minnesota Timberwolves,MIN,21,PF,6-11,240,"May 19, 1976",us,20,,/players/g/garneke01.html
+Tyus Jones,Minnesota Timberwolves,MIN,1,PG,6-2,195,"May 10, 1996",us,R,Duke University,/players/j/jonesty01.html
+Zach LaVine,Minnesota Timberwolves,MIN,8,SG,6-5,189,"March 10, 1995",us,1,"University of California, Los Angeles",/players/l/lavinza01.html
+Kevin Martin,Minnesota Timberwolves,MIN,23,SG,6-7,199,"February 1, 1983",us,11,Western Carolina University,/players/m/martike02.html
+Andre Miller,Minnesota Timberwolves,MIN,24,PG,6-3,200,"March 19, 1976",us,16,University of Utah,/players/m/millean02.html
+Shabazz Muhammad,Minnesota Timberwolves,MIN,15,SF,6-6,223,"November 13, 1992",us,2,"University of California, Los Angeles",/players/m/muhamsh01.html
+Adreian Payne,Minnesota Timberwolves,MIN,33,PF,6-10,237,"February 19, 1991",us,1,Michigan State University,/players/p/paynead01.html
+Nikola Pekovic,Minnesota Timberwolves,MIN,14,C,6-11,307,"January 3, 1986",me,5,,/players/p/pekovni01.html
+Tayshaun Prince,Minnesota Timberwolves,MIN,12,SF,6-9,212,"February 28, 1980",us,13,University of Kentucky,/players/p/princta01.html
+Ricky Rubio,Minnesota Timberwolves,MIN,9,PG,6-4,194,"October 21, 1990",es,4,,/players/r/rubiori01.html
+Damjan Rudez,Minnesota Timberwolves,MIN,10,SF,6-10,228,"June 17, 1986",hr,1,,/players/r/rudezda01.html
+Greg Smith,Minnesota Timberwolves,MIN,4,PF,6-10,250,"January 8, 1991",us,4,"California State University, Fresno",/players/s/smithgr02.html
+Karl-Anthony Towns,Minnesota Timberwolves,MIN,32,C,7-0,244,"November 15, 1995",us,R,University of Kentucky,/players/t/townska01.html
+Andrew Wiggins,Minnesota Timberwolves,MIN,22,SF,6-8,199,"February 23, 1995",ca,1,University of Kansas,/players/w/wiggian01.html
+Alexis Ajinca,New Orleans Pelicans,NOP,42,C,7-2,248,"May 6, 1988",fr,5,,/players/a/ajincal01.html
+Ryan Anderson,New Orleans Pelicans,NOP,33,PF,6-10,240,"May 6, 1988",us,7,University of California,/players/a/anderry01.html
+Omer Asik,New Orleans Pelicans,NOP,3,C,7-0,255,"July 4, 1986",tr,5,,/players/a/asikom01.html
+Luke Babbitt,New Orleans Pelicans,NOP,8,SF,6-9,225,"June 20, 1989",us,5,"University of Nevada, Reno",/players/b/babbilu01.html
+Norris Cole,New Orleans Pelicans,NOP,30,PG,6-2,175,"October 13, 1988",us,4,Cleveland State University,/players/c/coleno01.html
+Dante Cunningham,New Orleans Pelicans,NOP,44,SF,6-8,230,"April 22, 1987",us,6,Villanova University,/players/c/cunnida01.html
+Anthony Davis,New Orleans Pelicans,NOP,23,PF,6-10,253,"March 11, 1993",us,3,University of Kentucky,/players/d/davisan02.html
+Bryce Dejean-Jones,New Orleans Pelicans,NOP,31,SG,6-6,209,"August 21, 1992",us,R,Iowa State University,/players/d/dejeabr01.html
+Toney Douglas,New Orleans Pelicans,NOP,16,PG,6-2,195,"March 16, 1986",us,6,Florida State University,/players/d/douglto01.html
+James Ennis,New Orleans Pelicans,NOP,4,SF,6-7,210,"July 1, 1990",us,1,"California State University, Long Beach",/players/e/ennisja01.html
+Tyreke Evans,New Orleans Pelicans,NOP,1,SG,6-6,220,"September 19, 1989",us,6,University of Memphis,/players/e/evansty01.html
+Tim Frazier,New Orleans Pelicans,NOP,2,PG,6-1,170,"November 1, 1990",us,1,Pennsylvania State University,/players/f/fraziti01.html
+Jimmer Fredette,New Orleans Pelicans,NOP,32,SG,6-2,195,"February 25, 1989",us,4,Brigham Young University,/players/f/fredeji01.html
+Alonzo Gee,New Orleans Pelicans,NOP,15,SF,6-6,225,"May 29, 1987",us,6,University of Alabama,/players/g/geeal01.html
+Eric Gordon,New Orleans Pelicans,NOP,10,SG,6-4,215,"December 25, 1988",us,7,Indiana University,/players/g/gordoer01.html
+Jordan Hamilton,New Orleans Pelicans,NOP,25,SF,6-7,220,"October 6, 1990",us,4,University of Texas at Austin,/players/h/hamiljo02.html
+Jrue Holiday,New Orleans Pelicans,NOP,11,PG,6-4,205,"June 12, 1990",us,6,"University of California, Los Angeles",/players/h/holidjr01.html
+Orlando Johnson,New Orleans Pelicans,NOP,0,SG,6-5,220,"March 11, 1989",us,2,"University of California, Santa Barbara",/players/j/johnsor01.html
+Kendrick Perkins,New Orleans Pelicans,NOP,5,C,6-10,270,"November 10, 1984",us,12,,/players/p/perkike01.html
+Nate Robinson,New Orleans Pelicans,NOP,2,PG,5-9,180,"May 31, 1984",us,10,University of Washington,/players/r/robinna01.html
+Ish Smith,New Orleans Pelicans,NOP,4,PG,6-0,175,"July 5, 1988",us,5,Wake Forest University,/players/s/smithis01.html
+Arron Afflalo,New York Knicks,NYK,4,SG,6-5,210,"October 15, 1985",us,8,"University of California, Los Angeles",/players/a/afflaar01.html
+Lou Amundson,New York Knicks,NYK,17,PF,6-9,220,"December 7, 1982",us,9,"University of Nevada, Las Vegas",/players/a/amundlo01.html
+Thanasis Antetokounmpo,New York Knicks,NYK,43,SF,6-7,205,"July 17, 1992",gr,R,,/players/a/antetth01.html
+Carmelo Anthony,New York Knicks,NYK,7,SF,6-8,240,"May 29, 1984",us,12,Syracuse University,/players/a/anthoca01.html
+Jose Calderon,New York Knicks,NYK,3,PG,6-3,200,"September 28, 1981",es,10,,/players/c/caldejo01.html
+Cleanthony Early,New York Knicks,NYK,11,SF,6-8,210,"April 17, 1991",us,1,Wichita State University,/players/e/earlycl01.html
+Jimmer Fredette,New York Knicks,NYK,32,SG,6-2,195,"February 25, 1989",us,4,Brigham Young University,/players/f/fredeji01.html
+Langston Galloway,New York Knicks,NYK,2,PG,6-2,200,"December 9, 1991",us,1,Saint Joseph's University,/players/g/gallola01.html
+Jerian Grant,New York Knicks,NYK,13,PG,6-4,195,"October 9, 1992",us,R,University of Notre Dame,/players/g/grantje02.html
+Robin Lopez,New York Knicks,NYK,8,C,7-0,255,"April 1, 1988",us,7,Stanford University,/players/l/lopezro01.html
+Kyle O'Quinn,New York Knicks,NYK,9,PF,6-10,250,"March 26, 1990",us,3,Norfolk State University,/players/o/oquinky01.html
+Kristaps Porzingis,New York Knicks,NYK,6,PF,7-3,240,"August 2, 1995",lv,R,,/players/p/porzikr01.html
+Kevin Seraphin,New York Knicks,NYK,1,C,6-10,278,"December 7, 1989",gf,5,,/players/s/serapke01.html
+Lance Thomas,New York Knicks,NYK,42,PF,6-8,235,"April 24, 1988",us,4,Duke University,/players/t/thomala01.html
+Sasha Vujacic,New York Knicks,NYK,18,SG,6-7,195,"March 8, 1984",si,8,,/players/v/vujacsa01.html
+Derrick Williams,New York Knicks,NYK,23,SF,6-8,240,"May 25, 1991",us,4,University of Arizona,/players/w/willide02.html
+Steven Adams,Oklahoma City Thunder,OKC,12,C,7-0,255,"July 20, 1993",nz,2,University of Pittsburgh,/players/a/adamsst01.html
+D.J. Augustin,Oklahoma City Thunder,OKC,14,PG,6-0,183,"November 10, 1987",us,7,University of Texas at Austin,/players/a/augusdj01.html
+Nick Collison,Oklahoma City Thunder,OKC,4,PF,6-10,255,"October 26, 1980",us,11,University of Kansas,/players/c/collini01.html
+Kevin Durant,Oklahoma City Thunder,OKC,35,SF,6-9,240,"September 29, 1988",us,8,University of Texas at Austin,/players/d/duranke01.html
+Randy Foye,Oklahoma City Thunder,OKC,6,SG,6-4,213,"September 24, 1983",us,9,Villanova University,/players/f/foyera01.html
+Josh Huestis,Oklahoma City Thunder,OKC,34,PF,6-7,230,"December 19, 1991",us,R,Stanford University,/players/h/huestjo01.html
+Serge Ibaka,Oklahoma City Thunder,OKC,9,PF,6-10,245,"September 18, 1989",cg,6,,/players/i/ibakase01.html
+Enes Kanter,Oklahoma City Thunder,OKC,11,C,6-11,245,"May 20, 1992",ch,4,,/players/k/kanteen01.html
+Mitch McGary,Oklahoma City Thunder,OKC,33,PF,6-10,255,"June 6, 1992",us,1,University of Michigan,/players/m/mcgarmi01.html
+Nazr Mohammed,Oklahoma City Thunder,OKC,13,C,6-10,221,"September 5, 1977",us,17,University of Kentucky,/players/m/mohamna01.html
+Anthony Morrow,Oklahoma City Thunder,OKC,2,SG,6-5,210,"September 27, 1985",us,7,Georgia Institute of Technology,/players/m/morroan01.html
+Steve Novak,Oklahoma City Thunder,OKC,6,PF,6-10,225,"June 13, 1983",us,9,Marquette University,/players/n/novakst01.html
+Cameron Payne,Oklahoma City Thunder,OKC,22,PG,6-3,185,"August 8, 1994",us,R,Murray State University,/players/p/payneca01.html
+Andre Roberson,Oklahoma City Thunder,OKC,21,SG,6-7,210,"December 4, 1991",us,2,University of Colorado,/players/r/roberan03.html
+Kyle Singler,Oklahoma City Thunder,OKC,5,SF,6-8,228,"May 4, 1988",us,3,Duke University,/players/s/singlky01.html
+Dion Waiters,Oklahoma City Thunder,OKC,3,SG,6-4,225,"December 10, 1991",us,3,Syracuse University,/players/w/waitedi01.html
+Russell Westbrook,Oklahoma City Thunder,OKC,0,PG,6-3,200,"November 12, 1988",us,7,"University of California, Los Angeles",/players/w/westbru01.html
+Keith Appling,Orlando Magic,ORL,15,PG,6-1,185,"February 13, 1992",us,R,Michigan State University,/players/a/applike01.html
+Dewayne Dedmon,Orlando Magic,ORL,3,C,7-0,245,"August 12, 1989",us,2,University of Southern California,/players/d/dedmode01.html
+Evan Fournier,Orlando Magic,ORL,10,SF,6-7,205,"October 29, 1992",fr,3,,/players/f/fournev01.html
+Channing Frye,Orlando Magic,ORL,8,PF,6-11,255,"May 17, 1983",us,9,University of Arizona,/players/f/fryech01.html
+Aaron Gordon,Orlando Magic,ORL,00,PF,6-9,220,"September 16, 1995",us,1,University of Arizona,/players/g/gordoaa01.html
+Tobias Harris,Orlando Magic,ORL,12,PF,6-9,235,"July 15, 1992",us,4,University of Tennessee,/players/h/harrito02.html
+Mario Hezonja,Orlando Magic,ORL,23,SF,6-8,215,"February 25, 1995",hr,R,,/players/h/hezonma01.html
+Ersan Ilyasova,Orlando Magic,ORL,7,PF,6-10,235,"May 15, 1987",tr,7,,/players/i/ilyaser01.html
+Brandon Jennings,Orlando Magic,ORL,55,PG,6-1,169,"September 23, 1989",us,6,,/players/j/jennibr01.html
+Devyn Marble,Orlando Magic,ORL,11,SG,6-6,200,"September 21, 1992",us,1,University of Iowa,/players/m/marblde01.html
+Shabazz Napier,Orlando Magic,ORL,13,PG,6-1,175,"July 14, 1991",us,1,University of Connecticut,/players/n/napiesh01.html
+Andrew Nicholson,Orlando Magic,ORL,44,PF,6-9,250,"December 8, 1989",ca,3,St. Bonaventure University,/players/n/nichoan01.html
+Victor Oladipo,Orlando Magic,ORL,5,SG,6-4,210,"May 4, 1992",us,2,Indiana University,/players/o/oladivi01.html
+Elfrid Payton,Orlando Magic,ORL,4,PG,6-4,185,"February 22, 1994",us,1,University of Louisiana at Lafayette,/players/p/paytoel01.html
+Jason Smith,Orlando Magic,ORL,14,C,7-0,245,"March 2, 1986",us,7,Colorado State University,/players/s/smithja02.html
+Nikola Vucevic,Orlando Magic,ORL,9,C,7-0,260,"October 24, 1990",ch,4,University of Southern California,/players/v/vucevni01.html
+C.J. Watson,Orlando Magic,ORL,32,PG,6-2,175,"April 17, 1984",us,8,University of Tennessee,/players/w/watsocj01.html
+Elton Brand,Philadelphia 76ers,PHI,42,C,6-8,275,"March 11, 1979",us,16,Duke University,/players/b/brandel01.html
+Isaiah Canaan,Philadelphia 76ers,PHI,0,SG,6-0,201,"May 21, 1991",us,2,Murray State University,/players/c/canaais01.html
+Robert Covington,Philadelphia 76ers,PHI,33,SF,6-9,215,"December 14, 1990",us,2,Tennessee State University,/players/c/covinro01.html
+Jerami Grant,Philadelphia 76ers,PHI,39,SF,6-8,210,"March 12, 1994",us,1,Syracuse University,/players/g/grantje01.html
+Richaun Holmes,Philadelphia 76ers,PHI,22,PF,6-10,245,"October 15, 1993",us,R,Bowling Green State University,/players/h/holmeri01.html
+Carl Landry,Philadelphia 76ers,PHI,7,PF,6-9,248,"September 19, 1983",us,8,Purdue University,/players/l/landrca01.html
+Kendall Marshall,Philadelphia 76ers,PHI,5,PG,6-4,200,"August 19, 1991",us,3,University of North Carolina,/players/m/marshke01.html
+T.J. McConnell,Philadelphia 76ers,PHI,12,PG,6-2,200,"March 25, 1992",us,R,University of Arizona,/players/m/mccontj01.html
+Nerlens Noel,Philadelphia 76ers,PHI,4,C,6-11,228,"April 10, 1994",us,1,University of Kentucky,/players/n/noelne01.html
+Jahlil Okafor,Philadelphia 76ers,PHI,8,C,6-11,275,"December 15, 1995",us,R,Duke University,/players/o/okafoja01.html
+Phil Pressey,Philadelphia 76ers,PHI,26,PG,5-11,175,"February 17, 1991",us,2,University of Missouri,/players/p/pressph01.html
+JaKarr Sampson,Philadelphia 76ers,PHI,9,SF,6-9,214,"March 20, 1993",us,1,St. John's University,/players/s/sampsja02.html
+Ish Smith,Philadelphia 76ers,PHI,1,PG,6-0,175,"July 5, 1988",us,5,Wake Forest University,/players/s/smithis01.html
+Nik Stauskas,Philadelphia 76ers,PHI,11,SG,6-6,205,"October 7, 1993",ca,1,University of Michigan,/players/s/stausni01.html
+Hollis Thompson,Philadelphia 76ers,PHI,31,SG,6-8,206,"April 3, 1991",us,2,Georgetown University,/players/t/thompho01.html
+Sonny Weems,Philadelphia 76ers,PHI,9,SF,6-6,205,"July 8, 1986",us,3,University of Arkansas,/players/w/weemsso01.html
+Christian Wood,Philadelphia 76ers,PHI,35,PF,6-11,220,"September 27, 1995",us,R,"University of Nevada, Las Vegas",/players/w/woodch01.html
+Tony Wroten,Philadelphia 76ers,PHI,1,PG,6-6,205,"April 13, 1993",us,3,University of Washington,/players/w/wroteto01.html
+Eric Bledsoe,Phoenix Suns,PHO,2,PG,6-1,190,"December 9, 1989",us,5,University of Kentucky,/players/b/bledser01.html
+Devin Booker,Phoenix Suns,PHO,1,SG,6-6,206,"October 30, 1996",us,R,University of Kentucky,/players/b/bookede01.html
+Lorenzo Brown,Phoenix Suns,PHO,41,PG,6-5,189,"August 26, 1990",us,2,North Carolina State University,/players/b/brownlo01.html
+Chase Budinger,Phoenix Suns,PHO,10,SF,6-7,209,"May 22, 1988",us,6,University of Arizona,/players/b/budinch01.html
+Tyson Chandler,Phoenix Suns,PHO,4,C,7-1,240,"October 2, 1982",us,14,,/players/c/chandty01.html
+Bryce Cotton,Phoenix Suns,PHO,8,PG,6-1,165,"August 11, 1992",us,1,Providence College,/players/c/cottobr01.html
+Archie Goodwin,Phoenix Suns,PHO,20,PG,6-5,200,"August 17, 1994",us,2,University of Kentucky,/players/g/goodwar01.html
+Kris Humphries,Phoenix Suns,PHO,43,PF,6-9,235,"February 6, 1985",us,11,University of Minnesota,/players/h/humphkr01.html
+Cory Jefferson,Phoenix Suns,PHO,55,PF,6-9,218,"December 26, 1990",us,1,Baylor University,/players/j/jeffeco01.html
+John Jenkins,Phoenix Suns,PHO,23,SG,6-4,215,"March 6, 1991",us,3,Vanderbilt University,/players/j/jenkijo01.html
+Orlando Johnson,Phoenix Suns,PHO,0,SG,6-5,220,"March 11, 1989",us,2,"University of California, Santa Barbara",/players/j/johnsor01.html
+Brandon Knight,Phoenix Suns,PHO,3,SG,6-3,189,"December 2, 1991",us,4,University of Kentucky,/players/k/knighbr03.html
+Alex Len,Phoenix Suns,PHO,21,C,7-1,260,"June 16, 1993",ua,2,University of Maryland,/players/l/lenal01.html
+Jon Leuer,Phoenix Suns,PHO,30,PF,6-10,228,"May 14, 1989",us,4,University of Wisconsin,/players/l/leuerjo01.html
+Jordan McRae,Phoenix Suns,PHO,52,PG,6-6,185,"March 28, 1991",us,R,University of Tennessee,/players/m/mcraejo01.html
+Markieff Morris,Phoenix Suns,PHO,11,PF,6-10,245,"September 2, 1989",us,4,University of Kansas,/players/m/morrima02.html
+Phil Pressey,Phoenix Suns,PHO,25,PG,5-11,175,"February 17, 1991",us,2,University of Missouri,/players/p/pressph01.html
+Ronnie Price,Phoenix Suns,PHO,14,PG,6-2,190,"June 21, 1983",us,10,Utah Valley State College,/players/p/pricero01.html
+Mirza Teletovic,Phoenix Suns,PHO,35,PF,6-9,242,"September 18, 1985",ba,3,,/players/t/teletmi01.html
+P.J. Tucker,Phoenix Suns,PHO,17,SF,6-6,245,"May 5, 1985",us,4,University of Texas at Austin,/players/t/tuckepj01.html
+T.J. Warren,Phoenix Suns,PHO,12,SF,6-8,230,"September 5, 1993",us,1,North Carolina State University,/players/w/warretj01.html
+Sonny Weems,Phoenix Suns,PHO,10,SG,6-6,205,"July 8, 1986",us,3,University of Arkansas,/players/w/weemsso01.html
+Alan Williams,Phoenix Suns,PHO,15,PF,6-8,260,"January 28, 1993",us,R,"University of California, Santa Barbara",/players/w/willial03.html
+Cliff Alexander,Portland Trail Blazers,POR,34,PF,6-8,240,"November 16, 1995",us,R,University of Kansas,/players/a/alexacl01.html
+Al-Farouq Aminu,Portland Trail Blazers,POR,8,SF,6-9,215,"September 21, 1990",us,5,Wake Forest University,/players/a/aminual01.html
+Pat Connaughton,Portland Trail Blazers,POR,5,SG,6-5,206,"January 6, 1993",us,R,University of Notre Dame,/players/c/connapa01.html
+Allen Crabbe,Portland Trail Blazers,POR,23,SG,6-6,210,"April 9, 1992",us,2,University of California,/players/c/crabbal01.html
+Ed Davis,Portland Trail Blazers,POR,17,PF,6-10,240,"June 5, 1989",us,5,University of North Carolina,/players/d/davised01.html
+Tim Frazier,Portland Trail Blazers,POR,10,PG,6-1,170,"November 1, 1990",us,1,Pennsylvania State University,/players/f/fraziti01.html
+Maurice Harkless,Portland Trail Blazers,POR,4,SF,6-9,215,"May 11, 1993",us,3,St. John's University,/players/h/harklma01.html
+Gerald Henderson,Portland Trail Blazers,POR,9,SG,6-5,215,"December 9, 1987",us,6,Duke University,/players/h/hendege02.html
+Chris Kaman,Portland Trail Blazers,POR,35,C,7-0,265,"April 28, 1982",us,12,Central Michigan University,/players/k/kamanch01.html
+Meyers Leonard,Portland Trail Blazers,POR,11,PF,7-1,245,"February 27, 1992",us,3,University of Illinois at Urbana-Champaign,/players/l/leoname01.html
+Damian Lillard,Portland Trail Blazers,POR,0,PG,6-3,195,"July 15, 1990",us,3,Weber State University,/players/l/lillada01.html
+C.J. McCollum,Portland Trail Blazers,POR,3,SG,6-4,200,"September 19, 1991",us,2,Lehigh University,/players/m/mccolcj01.html
+Luis Montero,Portland Trail Blazers,POR,44,SG,6-7,185,"April 6, 1993",do,R,Westchester CC,/players/m/montelu01.html
+Mason Plumlee,Portland Trail Blazers,POR,24,C,6-11,245,"March 5, 1990",us,2,Duke University,/players/p/plumlma01.html
+Brian Roberts,Portland Trail Blazers,POR,2,PG,6-1,173,"December 3, 1985",us,3,University of Dayton,/players/r/roberbr01.html
+Noah Vonleh,Portland Trail Blazers,POR,21,PF,6-10,240,"August 24, 1995",us,1,Indiana University,/players/v/vonleno01.html
+Quincy Acy,Sacramento Kings,SAC,13,PF,6-7,240,"October 6, 1990",us,3,Baylor University,/players/a/acyqu01.html
+James Anderson,Sacramento Kings,SAC,5,SG,6-6,213,"March 25, 1989",us,4,Oklahoma State University,/players/a/anderja01.html
+Marco Belinelli,Sacramento Kings,SAC,3,SG,6-5,210,"March 25, 1986",it,8,,/players/b/belinma01.html
+Caron Butler,Sacramento Kings,SAC,31,SF,6-7,228,"March 13, 1980",us,13,University of Connecticut,/players/b/butleca01.html
+Omri Casspi,Sacramento Kings,SAC,18,SF,6-9,225,"June 22, 1988",il,6,,/players/c/casspom01.html
+Willie Cauley-Stein,Sacramento Kings,SAC,00,C,7-0,240,"August 18, 1993",us,R,University of Kentucky,/players/c/caulewi01.html
+Darren Collison,Sacramento Kings,SAC,7,PG,6-0,175,"August 23, 1987",us,6,"University of California, Los Angeles",/players/c/collida01.html
+DeMarcus Cousins,Sacramento Kings,SAC,15,C,6-11,270,"August 13, 1990",us,5,University of Kentucky,/players/c/couside01.html
+Seth Curry,Sacramento Kings,SAC,30,PG,6-2,185,"August 23, 1990",us,2,Duke University,/players/c/curryse01.html
+Duje Dukan,Sacramento Kings,SAC,26,SF,6-9,220,"December 4, 1991",hr,R,University of Wisconsin,/players/d/dukandu01.html
+Rudy Gay,Sacramento Kings,SAC,8,SF,6-8,230,"August 17, 1986",us,9,University of Connecticut,/players/g/gayru01.html
+Kosta Koufos,Sacramento Kings,SAC,41,C,7-0,265,"February 24, 1989",us,7,Ohio State University,/players/k/koufoko01.html
+Ben McLemore,Sacramento Kings,SAC,23,SG,6-5,195,"February 11, 1993",us,2,University of Kansas,/players/m/mclembe01.html
+Eric Moreland,Sacramento Kings,SAC,25,PF,6-10,238,"December 24, 1991",us,1,Oregon State University,/players/m/moreler01.html
+Rajon Rondo,Sacramento Kings,SAC,9,PG,6-1,186,"February 22, 1986",us,9,University of Kentucky,/players/r/rondora01.html
+LaMarcus Aldridge,San Antonio Spurs,SAS,12,PF,6-11,240,"July 19, 1985",us,9,University of Texas at Austin,/players/a/aldrila01.html
+Kyle Anderson,San Antonio Spurs,SAS,1,SF,6-9,230,"September 20, 1993",us,1,"University of California, Los Angeles",/players/a/anderky01.html
+Matt Bonner,San Antonio Spurs,SAS,15,C,6-10,235,"April 5, 1980",us,11,University of Florida,/players/b/bonnema01.html
+Rasual Butler,San Antonio Spurs,SAS,18,SF,6-7,215,"May 23, 1979",us,12,La Salle University,/players/b/butlera01.html
+Boris Diaw,San Antonio Spurs,SAS,33,PF,6-8,250,"April 16, 1982",fr,12,,/players/d/diawbo01.html
+Tim Duncan,San Antonio Spurs,SAS,21,C,6-11,250,"April 25, 1976",vi,18,Wake Forest University,/players/d/duncati01.html
+Manu Ginobili,San Antonio Spurs,SAS,20,SG,6-6,205,"July 28, 1977",ar,13,,/players/g/ginobma01.html
+Danny Green,San Antonio Spurs,SAS,14,SG,6-6,215,"June 22, 1987",us,6,University of North Carolina,/players/g/greenda02.html
+Kawhi Leonard,San Antonio Spurs,SAS,2,SF,6-7,230,"June 29, 1991",us,4,San Diego State University,/players/l/leonaka01.html
+Boban Marjanovic,San Antonio Spurs,SAS,40,C,7-3,290,"August 15, 1988",rs,R,,/players/m/marjabo01.html
+Kevin Martin,San Antonio Spurs,SAS,23,SG,6-7,199,"February 1, 1983",us,11,Western Carolina University,/players/m/martike02.html
+Ray McCallum,San Antonio Spurs,SAS,3,PG,6-3,190,"June 12, 1991",us,2,University of Detroit Mercy,/players/m/mccalra01.html
+Andre Miller,San Antonio Spurs,SAS,24,PG,6-3,200,"March 19, 1976",us,16,University of Utah,/players/m/millean02.html
+Patrick Mills,San Antonio Spurs,SAS,8,PG,6-0,185,"August 11, 1988",au,6,Saint Mary's College of California,/players/m/millspa02.html
+Tony Parker,San Antonio Spurs,SAS,9,PG,6-2,185,"May 17, 1982",be,14,,/players/p/parketo01.html
+Jonathon Simmons,San Antonio Spurs,SAS,17,SG,6-6,195,"September 14, 1989",us,R,University of Houston,/players/s/simmojo02.html
+David West,San Antonio Spurs,SAS,30,PF,6-9,250,"August 29, 1980",us,12,Xavier University,/players/w/westda01.html
+Anthony Bennett,Toronto Raptors,TOR,15,PF,6-8,245,"March 14, 1993",ca,2,"University of Nevada, Las Vegas",/players/b/bennean01.html
+Bismack Biyombo,Toronto Raptors,TOR,8,C,6-9,245,"August 28, 1992",cd,4,,/players/b/biyombi01.html
+Bruno Caboclo,Toronto Raptors,TOR,20,SF,6-9,205,"September 21, 1995",br,1,,/players/c/cabocbr01.html
+DeMarre Carroll,Toronto Raptors,TOR,5,SF,6-8,212,"July 27, 1986",us,6,University of Missouri,/players/c/carrode01.html
+DeMar DeRozan,Toronto Raptors,TOR,10,SG,6-7,220,"August 7, 1989",us,6,University of Southern California,/players/d/derozde01.html
+James Johnson,Toronto Raptors,TOR,3,PF,6-9,250,"February 20, 1987",us,6,Wake Forest University,/players/j/johnsja01.html
+Cory Joseph,Toronto Raptors,TOR,6,SG,6-3,190,"August 20, 1991",ca,4,University of Texas at Austin,/players/j/josepco01.html
+Kyle Lowry,Toronto Raptors,TOR,7,PG,6-0,205,"March 25, 1986",us,9,Villanova University,/players/l/lowryky01.html
+Lucas Nogueira,Toronto Raptors,TOR,92,C,7-0,220,"July 26, 1992",br,1,,/players/n/noguelu01.html
+Patrick Patterson,Toronto Raptors,TOR,54,PF,6-9,235,"March 14, 1989",us,5,University of Kentucky,/players/p/pattepa01.html
+Norman Powell,Toronto Raptors,TOR,24,SG,6-4,215,"May 25, 1993",us,R,"University of California, Los Angeles",/players/p/powelno01.html
+Terrence Ross,Toronto Raptors,TOR,31,SF,6-7,195,"February 5, 1991",us,3,University of Washington,/players/r/rosste01.html
+Luis Scola,Toronto Raptors,TOR,4,PF,6-9,240,"April 30, 1980",ar,8,,/players/s/scolalu01.html
+Jason Thompson,Toronto Raptors,TOR,1,C,6-11,250,"July 21, 1986",us,7,Rider University,/players/t/thompja02.html
+Jonas Valanciunas,Toronto Raptors,TOR,17,C,7-0,255,"May 6, 1992",lt,3,,/players/v/valanjo01.html
+Delon Wright,Toronto Raptors,TOR,55,PG,6-5,190,"April 26, 1992",us,R,University of Utah,/players/w/wrighde01.html
+Trevor Booker,Utah Jazz,UTA,33,PF,6-8,228,"November 25, 1987",us,5,Clemson University,/players/b/booketr01.html
+Trey Burke,Utah Jazz,UTA,3,PG,6-1,191,"November 12, 1992",us,2,University of Michigan,/players/b/burketr01.html
+Alec Burks,Utah Jazz,UTA,10,SG,6-6,214,"July 20, 1991",us,4,University of Colorado,/players/b/burksal01.html
+Derrick Favors,Utah Jazz,UTA,15,PF,6-10,265,"July 15, 1991",us,5,Georgia Institute of Technology,/players/f/favorde01.html
+Rudy Gobert,Utah Jazz,UTA,27,C,7-1,245,"June 26, 1992",fr,2,,/players/g/goberru01.html
+Erick Green,Utah Jazz,UTA,18,PG,6-4,185,"May 9, 1991",us,1,Virginia Polytechnic Institute and State University,/players/g/greener01.html
+Gordon Hayward,Utah Jazz,UTA,20,SF,6-8,226,"March 23, 1990",us,5,Butler University,/players/h/haywago01.html
+Rodney Hood,Utah Jazz,UTA,5,SG,6-8,206,"October 20, 1992",us,1,Duke University,/players/h/hoodro01.html
+Joe Ingles,Utah Jazz,UTA,2,SF,6-8,226,"October 2, 1987",au,1,,/players/i/inglejo01.html
+Chris Johnson,Utah Jazz,UTA,23,SF,6-6,206,"April 29, 1990",us,3,University of Dayton,/players/j/johnsch04.html
+Trey Lyles,Utah Jazz,UTA,41,PF,6-10,234,"November 5, 1995",ca,R,University of Kentucky,/players/l/lylestr01.html
+Shelvin Mack,Utah Jazz,UTA,8,PG,6-3,203,"April 22, 1990",us,4,Butler University,/players/m/macksh01.html
+Elijah Millsap,Utah Jazz,UTA,13,SG,6-6,225,"August 12, 1987",us,1,University of Alabama at Birmingham,/players/m/millsel01.html
+Raul Neto,Utah Jazz,UTA,25,PG,6-1,179,"May 19, 1992",br,R,,/players/n/netora01.html
+J.J. O'Brien,Utah Jazz,UTA,22,SF,6-7,228,"April 8, 1992",us,R,San Diego State University,/players/o/obriejj01.html
+Tibor Pleiss,Utah Jazz,UTA,21,C,7-3,256,"November 2, 1989",de,R,,/players/p/pleisti01.html
+Jeff Withey,Utah Jazz,UTA,24,C,7-0,231,"March 7, 1990",us,2,University of Kansas,/players/w/witheje01.html
+Alan Anderson,Washington Wizards,WAS,6,SG,6-6,220,"October 16, 1982",us,6,Michigan State University,/players/a/anderal01.html
+Bradley Beal,Washington Wizards,WAS,3,SG,6-5,207,"June 28, 1993",us,3,University of Florida,/players/b/bealbr01.html
+DeJuan Blair,Washington Wizards,WAS,45,C,6-7,270,"April 22, 1989",us,6,University of Pittsburgh,/players/b/blairde01.html
+Jared Dudley,Washington Wizards,WAS,1,PF,6-7,225,"July 10, 1985",us,8,Boston College,/players/d/dudleja01.html
+Jarell Eddie,Washington Wizards,WAS,8,SF,6-7,218,"October 30, 1991",us,R,Virginia Polytechnic Institute and State University,/players/e/eddieja01.html
+Drew Gooden,Washington Wizards,WAS,90,PF,6-10,250,"September 24, 1981",us,13,University of Kansas,/players/g/goodedr01.html
+Marcin Gortat,Washington Wizards,WAS,13,C,6-11,240,"February 17, 1984",pl,8,,/players/g/gortama01.html
+J.J. Hickson,Washington Wizards,WAS,21,C,6-9,242,"September 4, 1988",us,7,North Carolina State University,/players/h/hicksjj01.html
+Nene Hilario,Washington Wizards,WAS,42,PF,6-11,250,"September 13, 1982",br,13,,/players/h/hilarne01.html
+Ryan Hollins,Washington Wizards,WAS,15,C,7-0,240,"October 10, 1984",us,9,"University of California, Los Angeles",/players/h/holliry01.html
+Kris Humphries,Washington Wizards,WAS,43,PF,6-9,235,"February 6, 1985",us,11,University of Minnesota,/players/h/humphkr01.html
+Markieff Morris,Washington Wizards,WAS,5,PF,6-10,245,"September 2, 1989",us,4,University of Kansas,/players/m/morrima02.html
+Gary Neal,Washington Wizards,WAS,14,SG,6-4,210,"October 3, 1984",us,5,Towson University,/players/n/nealga01.html
+Kelly Oubre,Washington Wizards,WAS,12,SF,6-7,205,"December 9, 1995",us,R,University of Kansas,/players/o/oubreke01.html
+Otto Porter,Washington Wizards,WAS,22,SF,6-8,198,"June 3, 1993",us,2,Georgetown University,/players/p/porteot01.html
+Ramon Sessions,Washington Wizards,WAS,7,PG,6-3,190,"April 11, 1986",us,8,"University of Nevada, Reno",/players/s/sessira01.html
+Garrett Temple,Washington Wizards,WAS,17,SF,6-6,195,"May 8, 1986",us,5,Louisiana State University,/players/t/templga01.html
+Marcus Thornton,Washington Wizards,WAS,15,SG,6-4,205,"June 5, 1987",us,6,Louisiana State University,/players/t/thornma01.html
+John Wall,Washington Wizards,WAS,2,PG,6-4,195,"September 6, 1990",us,5,University of Kentucky,/players/w/walljo01.html
