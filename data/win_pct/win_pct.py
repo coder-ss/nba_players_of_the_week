@@ -63,7 +63,8 @@ if __name__ == '__main__':
 
     rs = []
     for team_id in win_pct:
-        tmp_dict = {}
+        tmp_dict_lj = {}
+        tmp_dict_cur = {}
         count = 0
         win = 0
         loss = 0
@@ -73,30 +74,35 @@ if __name__ == '__main__':
         cur_sunday = ''
 
         for game_date in sorted_game_date:
-            count += 1
-            if win_pct[team_id][game_date] == 1:
-                win += 1
-            else:
-                loss += 1
-
             if last_sunday == '':
                 last_sunday = to_sunday(sundays, game_date)
             cur_sunday = to_sunday(sundays, game_date)
 
+            tmp_dict_cur[cur_sunday] = tmp_dict_cur.get(cur_sunday, {'cur_count': 0, 'cur_win': 0, 'cur_loss': 0})
+            tmp_dict_cur[cur_sunday]['cur_count'] += 1
+
             if cur_sunday != last_sunday:
-                tmp_dict[last_sunday] = {'team':team_id, 'date':last_sunday,'count':count, 'win':win, 'loss':loss}
+                tmp_dict_lj[last_sunday] = {'team': team_id, 'date': last_sunday, 'count': count, 'win': win, 'loss': loss}
                 last_sunday = cur_sunday
 
-        if cur_sunday not in tmp_dict.keys():
-            tmp_dict[cur_sunday] = {'team':team_id, 'date':cur_sunday,'count': count, 'win': win, 'loss': loss}
+            count += 1
+            if win_pct[team_id][game_date] == 1:
+                win += 1
+                tmp_dict_cur[cur_sunday]['cur_win'] += 1
+            else:
+                loss += 1
+                tmp_dict_cur[cur_sunday]['cur_loss'] += 1
 
-        tmp_list = [tmp_dict[k] for k in sorted(tmp_dict)]
+        if cur_sunday not in tmp_dict_lj.keys():
+            tmp_dict_lj[cur_sunday] = {'team':team_id, 'date':cur_sunday, 'count': count, 'win': win, 'loss': loss}
+
+        tmp_list = [dict(tmp_dict_lj[k], **tmp_dict_cur[k]) for k in sorted(tmp_dict_lj)]
 
         rs.extend(tmp_list)
 
     path = '%s/win_pct_%s.csv' % (sys.path[0], year)
     with open(path, 'w', newline='') as csvfile:
-        fieldnames = ['team', 'date', 'count', 'win', 'loss']
+        fieldnames = ['team', 'date', 'count', 'win', 'loss', 'cur_count', 'cur_win', 'cur_loss']
 
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
