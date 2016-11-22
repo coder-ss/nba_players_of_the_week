@@ -23,7 +23,10 @@ def crawl_players(short_team, team, year):
 
     table = soup.find(attrs={'id': 'roster'})
 
-    trs = table.find('tbody').find_all("tr")
+    try:
+        trs = table.find('tbody').find_all("tr")
+    except Exception as e:
+        return []
 
     ps = []
     for tr in trs:
@@ -51,7 +54,7 @@ if __name__ == '__main__':
     if len(sys.argv) < 2:
         print('please input the year. example: 2016 represent the season of 2015-2016')
         exit()
-    if 2013 > int(sys.argv[1]) or int(sys.argv[1]) > 2016:
+    if 2002 > int(sys.argv[1]) or int(sys.argv[1]) > 2016:
         print('the year must in 2013-2016')
         exit()
 

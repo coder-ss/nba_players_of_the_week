@@ -4,6 +4,14 @@ import csv
 import sys
 
 
+def extract_short(_soup, _year):
+    _season = '%s-%s' % (_year - 1, str(_year)[-2:])
+    try:
+        return _soup.find('a', text=_season)['href'].replace('/teams/', '').replace('/%s.html' % _year, '')
+    except Exception as e:
+        return ''
+
+
 def get_short_by_year(short_name):
     _url = 'http://www.basketball-reference.com/teams/%s/' % short_name
     _headers = {'Host': 'www.basketball-reference.com',
@@ -21,12 +29,12 @@ def get_short_by_year(short_name):
     soup = BeautifulSoup(r.text, 'html.parser')
 
     d = {}
-    d['2013_short'] = soup.find('a', text='2012-13')['href'].replace('/teams/', '').replace('/2013.html', '')
-    d['2014_short'] = soup.find('a', text='2013-14')['href'].replace('/teams/', '').replace('/2014.html', '')
-    d['2015_short'] = soup.find('a', text='2014-15')['href'].replace('/teams/', '').replace('/2015.html', '')
-    d['2016_short'] = soup.find('a', text='2015-16')['href'].replace('/teams/', '').replace('/2016.html', '')
+    for year in range(2002, 2017):
+        d['%s_short' % year] = extract_short(soup, year)
+    # d['2016_short'] = soup.find('a', text='2015-16')['href'].replace('/teams/', '').replace('/2016.html', '')
 
     return d
+
 
 def crawl_team():
     _url = 'http://www.basketball-reference.com/teams/'
@@ -68,6 +76,7 @@ def crawl_team():
             'years_conference_champion': tr.find(attrs={'data-stat': 'years_conference_champion'}).string,
             'years_league_champion': tr.find(attrs={'data-stat': 'years_league_champion'}).string
         }
+        print(short_name)
         shorts = get_short_by_year(short_name)
         for k in shorts:
             t[k] = shorts[k]
@@ -78,8 +87,9 @@ def crawl_team():
     with open(path, 'w', newline='') as csvfile:
         fieldnames = ['short_name', 'name', 'league', 'from', 'to', 'years', 'games', 'wins',
                       'losses','win_loss_pct','years_playoffs','years_division_champion',
-                      'years_conference_champion', 'years_league_champion',
-                      '2013_short', '2014_short', '2015_short', '2016_short']
+                      'years_conference_champion', 'years_league_champion']
+        for year in range(2002, 2017):
+            fieldnames.append('%s_short' % year)
 
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 

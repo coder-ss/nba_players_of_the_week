@@ -136,12 +136,12 @@ def compute_avg(_data_list, _year):
     _arr[_arr==''] = 0.0
     _arr = _arr.astype(np.float)
     _arr_mean = np.mean(_arr, 0)
-    _arr_var = np.var(_arr, 0)
+    # _arr_var = np.var(_arr, 0)
 
     for i in range(len(_keys)):
         _tj[_keys[i]] = _arr_mean[i]
-    for i in range(len(_keys)):
-        _tj['var_%s' % _keys[i]] = _arr_var[i]
+    # for i in range(len(_keys)):
+    #     _tj['var_%s' % _keys[i]] = _arr_var[i]
     # if _year != 2016:
         # _tj['daily_fantasy_sports_points'] = ''
     _tj['win_pct'] = float(_tj['win_count']) / float(_tj['game_count'])
@@ -192,7 +192,7 @@ if __name__ == '__main__':
     if len(sys.argv) < 2:
         print('please input the year. example: 2016 represent the season of 2015-2016')
         exit()
-    if 2013 > int(sys.argv[1]) or int(sys.argv[1]) > 2016:
+    if 2002 > int(sys.argv[1]) or int(sys.argv[1]) > 2016:
         print('the year must in 2013-2016')
         exit()
 
@@ -221,14 +221,14 @@ if __name__ == '__main__':
                           'free_throw_pct', 'offensive_rebounds', 'defensive_rebounds', 'total_rebounds',
                           'assists', 'steals', 'blocks', 'turnovers', 'personal_fouls', 'points', 'game_score',
                           'plus_minus', 'daily_fantasy_sports_points',
-                          'var_minutes_played', 'var_field_goals', 'var_field_goal_attempts', 'var_field_goal_pct',
-                          'var_three_point_field_goals', 'var_three_point_field_goal_attempts', 'var_three_point_field_goal_pct',
-                          'var_free_throws', 'var_free_throw_attempts', 'var_free_throw_pct',
-                          'var_offensive_rebounds', 'var_defensive_rebounds', 'var_total_rebounds',
-                          'var_assists', 'var_steals', 'var_blocks', 'var_turnovers',
-                          'var_personal_fouls', 'var_points', 'var_game_score',
-                          'var_plus_minus',
-                          'var_daily_fantasy_sports_points', 'var_opp_win_pct',
+                          # 'var_minutes_played', 'var_field_goals', 'var_field_goal_attempts', 'var_field_goal_pct',
+                          # 'var_three_point_field_goals', 'var_three_point_field_goal_attempts', 'var_three_point_field_goal_pct',
+                          # 'var_free_throws', 'var_free_throw_attempts', 'var_free_throw_pct',
+                          # 'var_offensive_rebounds', 'var_defensive_rebounds', 'var_total_rebounds',
+                          # 'var_assists', 'var_steals', 'var_blocks', 'var_turnovers',
+                          # 'var_personal_fouls', 'var_points', 'var_game_score',
+                          # 'var_plus_minus',
+                          # 'var_daily_fantasy_sports_points', 'var_opp_win_pct',
                           'uri', 'is_pow']
 
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
